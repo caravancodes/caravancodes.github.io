@@ -110,3 +110,4 @@ xandr.com, 13167, RESELLER, f5ab79cb980f11d1
 xandr.com, 13297, RESELLER, f5ab79cb980f11d1
 xandr.com, 7353, RESELLER, f5ab79cb980f11d1
 yandex.com, 97539269, RESELLER
+google.com, pub-8016242537852754, DIRECT, f08c47fec0942fa0
